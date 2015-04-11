@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Tipos Globales que se usaran en el proyecto
 namespace NorthWind.Entity
 {
     public enum eTipoDocumento
